@@ -1,5 +1,5 @@
-# express-blog
-在express框架下的学习与摸索,如果可能,最终希望形成一个博客系统<br>
+# express-server
+在express框架下的学习与摸<br>
 1、restfulAPI的实现<br>
 2、实现MVC模式<br>
 3、res添加属性，对返回的数据格式化为统一的标准<br>
@@ -14,10 +14,8 @@
 12、使用mocha框架编写测试代码<br>
 13、设置跨域访问<br>
 14、优化日志，格式化日志信息，但仍需修改<br>
-15、 后来添加的东西忘记记录了。。。。。<br>
-参考资料：<br>
-[restful api](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)<br>
-[log4js](https://juejin.im/post/5b7d0e20f265da43231f00d4)
+
+
 
 命令说明：
 ``` shell
